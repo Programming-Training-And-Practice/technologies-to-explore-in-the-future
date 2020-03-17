@@ -8,5 +8,5 @@
 * [динамические возможности Java](https://www.google.com/search?newwindow=1&safe=active&sxsrf=ALeKk012YlgJrVkBxvJDvhwOUHgADtAtYA%3A1583922077113&ei=nbtoXr2uBtCKlwSB6KRo&q=%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8+Java&oq=%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8+Java&gs_l=psy-ab.12..0i71l8.0.0..26521073...0.2..0.0.0.......0......gws-wiz.FAf1Snzs7KA&ved=0ahUKEwj98IfGmZLoAhVQxYUKHQE0CQ0Q4dUDCAs)
 * [Бессерверная технология](https://aws.amazon.com/ru/serverless/)
 * [quarkus cloud config server](https://www.google.com/search?newwindow=1&safe=active&sxsrf=ALeKk017tGDwHdVPYSjFJKnXJkEgptOiKQ%3A1583948304685&ei=ECJpXtO2KanKgwfK871I&q=quarkus+cloud+config+server&oq=quarkus+cloud+config+server&gs_l=psy-ab.3...1495.11031..11404...0.2..0.121.2436.11j13......0....1..gws-wiz.......0i71j35i39j0j0i22i30j0i333j0i203j35i305i39j0i7i30j0i8i7i30j0i13j0i13i30.tx08xE5fb_I&ved=0ahUKEwjT_qug-5LoAhUp5eAKHcp5DwkQ4dUDCAs&uact=5)
-* []()
+* [git flow](https://www.google.com/search?q=git+flow&oq=git+flow&aqs=chrome..69i57j0l7.5072j0j7&sourceid=chrome&ie=UTF-8)
 * []()
