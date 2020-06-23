@@ -57,6 +57,12 @@
 * [Apache Camel]()
 * [best practices in POD definitions (e.g. resourcing, affinity)]()
 * [Monitoring is new testing.]()
+* [Project Loom]()
+* [Munity reactive library.]()
+* [CallBack. Vertex]()
+* [Event Loop]()
+* [Worker Pool]()
+* [Coroutines. Kotlin]()
 * []()
 
 
