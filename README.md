@@ -64,6 +64,8 @@
 * [Worker Pool]()
 * [Coroutines. Kotlin]()
 * [tls protocol]()
+* [gRPC gateway]()
+* [java grpc testing]()
 * []()
 
 
@@ -128,4 +130,7 @@
 
 
 ## Help.
-* [Thanks so much for this video tutorial.]()
+
+
+
+Thanks so much for this video tutorial.
