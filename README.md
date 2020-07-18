@@ -106,6 +106,36 @@
 * [Romana](https://romana.io/how/network-policy/#:~:text=Microsegmentation%20and%20Isolation,filters%20applied%20to%20network%20endpoints.&text=Network%20policy%20based%20on%20pod,of%20network%20topology%20or%20addressing.)
 * [Calico.](https://www.projectcalico.org/)
 * [kube-router](https://github.com/cloudnativelabs/kube-router)
+* [Apache Hive.]()
+* []()
+
+
+
+
+
+## Big Data.
+* [Apache Spark]()
+* [Apache Hive]()
+* [Apache Flume]()
+* [Apache Oozie]()
+* [Apache Ambari]()
+* [HBase]()
+* [MongoDB]()
+* [Cassandra]()
+* [Apache Kafka]()
+* [Apache Pig]()
+* [Apache Tez]()
+* [Apache Drill]()
+* [Apache Phoenix]()
+* [Apache Mesos]()
+* [big data yarn]()
+* [map reduce]()
+* [big data sqoop]()
+* [Apache ZooKeeper]()
+* []()
+
+* [Presto]()
+* [zeppelin]()
 * []()
 
 
@@ -118,13 +148,18 @@
 * [qbench](https://www.google.com/search?q=qbench&oq=qben&aqs=chrome.2.69i57j0l7.6399j0j7&sourceid=chrome&ie=UTF-8)
 * [Travis CI](https://travis-ci.com/)
 * [multicluster setup]()
-* [recovering when master is lost]() 
+* [Kubernetes. Recovering when master is lost]() 
 * [rbac]()
 * [zipkin]()
 * [multi-cluster setup]() 
 * [Apache NiFi]()
 * [toefl exam]()
 * [Multiprocessing Programming]()
+* [raw tcp]()
+* [hermes protocol spotify]()
+* [HTTP/3]()
+* [quick protocol]()
+* [ALPN]()
 * []()
 
 
