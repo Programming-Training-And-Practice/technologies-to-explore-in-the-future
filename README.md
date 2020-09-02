@@ -44,7 +44,6 @@
 * [Бессерверная технология](https://aws.amazon.com/ru/serverless/)
 * [динамические возможности Java](https://www.google.com/search?newwindow=1&safe=active&sxsrf=ALeKk012YlgJrVkBxvJDvhwOUHgADtAtYA%3A1583922077113&ei=nbtoXr2uBtCKlwSB6KRo&q=%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8+Java&oq=%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8+Java&gs_l=psy-ab.12..0i71l8.0.0..26521073...0.2..0.0.0.......0......gws-wiz.FAf1Snzs7KA&ved=0ahUKEwj98IfGmZLoAhVQxYUKHQE0CQ0Q4dUDCAs)
 * [protobuf](https://www.google.com/search?q=protobuf&oq=protobuf&aqs=chrome..69i57j0l7.3050j0j7&sourceid=chrome&ie=UTF-8)
-* [gRPC]()
 * [RSocket]()
 * [RabbitMQ]()
 * [Apache Kafka]()
@@ -66,6 +65,8 @@
 * [tls protocol]()
 * [gRPC gateway]()
 * [java grpc testing]()
+* [Spring Batch]()
+* [microservices transaction management]()
 * []()
 
 
