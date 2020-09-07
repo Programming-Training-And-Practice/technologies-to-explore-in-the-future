@@ -66,7 +66,13 @@
 * [gRPC gateway]()
 * [java grpc testing]()
 * [Spring Batch]()
-* [microservices transaction management]()
+* [A/B testing]()
+* [Apache Avro]()
+* [micrometer spring]()
+* [distribution transaction using sagas]()
+* [distributed transaction management between microservices]()
+* [Business process management. BPM]()
+* [testcontainers]()
 * []()
 
 
@@ -108,7 +114,6 @@
 * [Calico.](https://www.projectcalico.org/)
 * [kube-router](https://github.com/cloudnativelabs/kube-router)
 * [Apache Hive.]()
-* [A/B testing]()
 * []()
 
 
