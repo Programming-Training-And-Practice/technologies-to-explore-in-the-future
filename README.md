@@ -55,7 +55,6 @@
 * [fault tolerance microservices java](https://www.google.com/search?q=fault+tolerance+microservices+java&newwindow=1&safe=active&hl=en-GB&sxsrf=ALeKk03VD2lskqqOgqlscvwHsUIbmT4zJw:1585329324060&source=lnms&sa=X&ved=0ahUKEwjRptn5k7voAhXr0eAKHbdPAtEQ_AUICSgA&biw=2560&bih=1314&dpr=1)
 * [Apache Camel]()
 * [best practices in POD definitions (e.g. resourcing, affinity)]()
-* [Monitoring is new testing.]()
 * [Project Loom]()
 * [Munity reactive library.]()
 * [CallBack. Vertex]()
@@ -64,17 +63,25 @@
 * [Coroutines. Kotlin]()
 * [tls protocol]()
 * [gRPC gateway]()
-* [java grpc testing]()
 * [Spring Batch]()
-* [A/B testing]()
 * [Apache Avro]()
 * [micrometer spring]()
 * [distribution transaction using sagas]()
 * [distributed transaction management between microservices]()
 * [Business process management. BPM]()
-* [testcontainers]()
 * []()
 
+
+
+
+
+## Test.
+* [Regression testing.]()
+* [testcontainers]()
+* [java grpc testing]()
+* [A/B testing]()
+* [Monitoring is new testing.]()
+* []()
 
 
 
