@@ -37,3 +37,5 @@
 * [WebLogic](https://www.google.com/search?q=WebLogic&oq=WebLogic&aqs=chrome..69i57j69i65&sourceid=chrome&ie=UTF-8)
 * [Domain-driven design. DDD](https://www.google.com/search?q=DDD&oq=DDD&aqs=chrome..69i57j69i65&sourceid=chrome&ie=UTF-8)
 * [Behavior-driven development. BDD](https://www.google.com/search?q=bdd&oq=bdd&aqs=chrome..69i57j0l7.2011j0j7&sourceid=chrome&ie=UTF-8)
+
+* [How to resolve Git conflicts.]()
