@@ -39,3 +39,7 @@
 * [Behavior-driven development. BDD](https://www.google.com/search?q=bdd&oq=bdd&aqs=chrome..69i57j0l7.2011j0j7&sourceid=chrome&ie=UTF-8)
 
 * [How to resolve Git conflicts.]()
+09:45
+13:13
+20:28
+
