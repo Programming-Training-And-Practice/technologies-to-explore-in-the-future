@@ -41,3 +41,9 @@
 
 * [How to resolve Git conflicts.]()
 
+* [race conditions]()
+* [confirmation token]()
+* [MTO. Mobile Transfer Object]()
+* [Ромбовидное наследование]()
+* [поведенческое интервю]()
+* []()
