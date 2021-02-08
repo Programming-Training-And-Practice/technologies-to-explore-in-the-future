@@ -46,4 +46,8 @@
 * [MTO. Mobile Transfer Object]()
 * [Ромбовидное наследование]()
 * [поведенческое интервю]()
+* [Json Viewer]()
+* [Ajax]()
+* [Intellij Idea Spaces]()
+* [Composite Primary Keys in JPA]()
 * []()
