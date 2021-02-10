@@ -12,4 +12,12 @@
 * [java service layout test]()
 * [java repository layout test]()
 * [java db test]()
+* [Embedded database]()
+* [wiremock]()
+* [Acceptance tests (or E2E)]()
+* [end to end tests]()
+* [smoke tests]()
+* [Spring WebTestClient]()
+* [smoke tests]()
 * []()
+
