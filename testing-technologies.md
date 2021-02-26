@@ -21,5 +21,7 @@
 * [smoke tests]()
 * [CI Testing]()
 * [Implementation Detail Tests]()
+* [Selinid Selenium Java. End to End Testing.]()
+* [cucumber testing]()
 * []()
 
