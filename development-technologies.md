@@ -6,7 +6,7 @@
 * [AOT Compiler vs JIT Compiler.](https://www.google.com/search?newwindow=1&safe=active&sxsrf=ALeKk03JwtkS-Egkb4A2d84a8P08nYTh-w%3A1583948506133&ei=2iJpXprkB9ycjLsP-7udyAw&q=aot+compiler+vs+jit+compiler&oq=aot+compiler+vs+jit+compiler&gs_l=psy-ab.12..0i71l8.0.0..30877...0.3..0.0.0.......0......gws-wiz.YCeXcXPRxNU&ved=0ahUKEwiaubOA_JLoAhVcDmMBHftdB8kQ4dUDCAs)
 * [Substrate VM](https://www.google.com/search?newwindow=1&safe=active&sxsrf=ALeKk02OS2CUJMGNGoYMnJGcwmZRnt-fKA%3A1583948580511&ei=JCNpXpbsHofgUbG_uDA&q=Substrate+VM)
 * [динамические возможности Java](https://www.google.com/search?newwindow=1&safe=active&sxsrf=ALeKk012YlgJrVkBxvJDvhwOUHgADtAtYA%3A1583922077113&ei=nbtoXr2uBtCKlwSB6KRo&q=%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8+Java&oq=%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8+Java&gs_l=psy-ab.12..0i71l8.0.0..26521073...0.2..0.0.0.......0......gws-wiz.FAf1Snzs7KA&ved=0ahUKEwj98IfGmZLoAhVQxYUKHQE0CQ0Q4dUDCAs)
-* [Project Loom]()
+* [Project Loom. Асинхронная многопоточность в Java 15]()
 * [Ромбовидное наследование]()
 * [Optional.map()]()
 * [java Aeron]()
