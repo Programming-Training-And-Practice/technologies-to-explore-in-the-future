@@ -11,6 +11,19 @@
 * [Optional.map()]()
 * [java Aeron]()
 * [Java functional programming]()
+* [A memory leak detection library for Java]()
+* []()
+
+## Multithreading
+* [Continuations, fibers, quasar.]()
+* [Coroutines. Kotlin]()
+* [race condition java]()
+* [callback hell java]()
+* [deadlock java]()
+* [livelock in java]()
+* [Communicating sequential processes. CSP.]()
+* [Actor Model.]()
+* [Java Memory Model. Book]()
 * []()
 
 ## Spring
@@ -77,7 +90,6 @@
 * [Event Loop]()
 * [VertX]()
 * [Worker Pool]()
-* [Coroutines. Kotlin]()
 * [tls protocol]()
 * [gRPC gateway]()
 * [Apache Avro]()
@@ -86,7 +98,6 @@
 * [Business process management. BPM]()
 * [java naming convention resource vs controller]()
 * [confirmation token]()
-* [race conditions]()
 * [MTO. Mobile Transfer Object]()
 * [поведенческое интервю]()
 * [Ajax]()
