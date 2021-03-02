@@ -12,6 +12,7 @@
 * [java Aeron]()
 * [Java functional programming]()
 * [A memory leak detection library for Java]()
+* [java puzzle Tagir Valeev]()
 * []()
 
 ## Multithreading
