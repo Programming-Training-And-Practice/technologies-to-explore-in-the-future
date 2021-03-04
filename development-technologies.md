@@ -36,6 +36,7 @@
 * [Monitoring Spring Boot Apps with Micrometer, Prometheus, and Grafana](https://stackabuse.com/monitoring-spring-boot-apps-with-micrometer-prometheus-and-grafana/)
 * [Spring framework functional beans]()
 * [Spring Validation]()
+* [Spring Retry]()
 * []()
 
 ## Spring Jpa
@@ -53,6 +54,13 @@
 ## Quarkus
 * [quarkus cloud config server](https://www.google.com/search?newwindow=1&safe=active&sxsrf=ALeKk017tGDwHdVPYSjFJKnXJkEgptOiKQ%3A1583948304685&ei=ECJpXtO2KanKgwfK871I&q=quarkus+cloud+config+server&oq=quarkus+cloud+config+server&gs_l=psy-ab.3...1495.11031..11404...0.2..0.121.2436.11j13......0....1..gws-wiz.......0i71j35i39j0j0i22i30j0i333j0i203j35i305i39j0i7i30j0i8i7i30j0i13j0i13i30.tx08xE5fb_I&ved=0ahUKEwjT_qug-5LoAhUp5eAKHcp5DwkQ4dUDCAs&uact=5)
 * [Munity reactive library.]()
+* []()
+
+
+## Vert.x.
+* Future
+* Promise
+* [Kos](https://skullabs.github.io/kos/)
 * []()
 
 ## Servers
@@ -117,6 +125,9 @@
 * [Error Prone. Error Prone is a static analysis tool for Java that catches common programming mistakes at compile-time.]()
 * [hibernate envers]()
 * [Audit4j]()
+* [Oracle Business Intelligence]()
+* [Axon Framework]()
+* [eventuate framework]()
 * []()
 
 
