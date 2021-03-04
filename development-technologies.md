@@ -13,6 +13,7 @@
 * [Java functional programming]()
 * [A memory leak detection library for Java]()
 * [java puzzle Tagir Valeev]()
+* [java jms]()
 * []()
 
 ## Multithreading
@@ -112,6 +113,10 @@
 * [Domain-driven design. DDD](https://www.google.com/search?q=DDD&oq=DDD&aqs=chrome..69i57j69i65&sourceid=chrome&ie=UTF-8)
 * [SonarCloud]()
 * [kubeless]()
+* [Platform as a service (Paas)]()
+* [Error Prone. Error Prone is a static analysis tool for Java that catches common programming mistakes at compile-time.]()
+* [hibernate envers]()
+* [Audit4j]()
 * []()
 
 

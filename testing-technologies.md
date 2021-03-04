@@ -1,6 +1,9 @@
 # Testing Technologies.
 
 * [Regression testing.]()
+* [Performance testing]()
+* [Load testing]()
+* [Stress testing]()  
 * [Test containers.]()
 * [java grpc testing]()
 * [A/B testing]()
@@ -23,5 +26,17 @@
 * [Implementation Detail Tests]()
 * [Selinid Selenium Java. End to End Testing.]()
 * [cucumber testing]()
+* [JfrUnit - A JUnit extension for asserting JDK Flight Recorder events]()
+* []()
 * []()
 
+## Popular free testing tools.
+* No coding required:
+  * JMeter
+  * SoapUI (LoadUI)
+* Requiring writing code:
+  * Grinder
+  * Gatling  
+  * Locust 
+  * Taurus 
+  * Tsung 
