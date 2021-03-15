@@ -58,8 +58,11 @@
 
 
 ## Vert.x.
-* Future
-* Promise
+* [Future]()
+* [Promise]()
+* [callbacks]() 
+* [reactive extensions]() 
+* [coroutines.]()
 * [Kos](https://skullabs.github.io/kos/)
 * []()
 
