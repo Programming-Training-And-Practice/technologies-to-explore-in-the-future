@@ -63,6 +63,7 @@
 * [callbacks]() 
 * [reactive extensions]() 
 * [coroutines.]()
+* [futures and promises model]()
 * [Kos](https://skullabs.github.io/kos/)
 * []()
 
@@ -131,6 +132,7 @@
 * [Oracle Business Intelligence]()
 * [Axon Framework]()
 * [eventuate framework]()
+* [actor concurrency model]()
 * []()
 
 
