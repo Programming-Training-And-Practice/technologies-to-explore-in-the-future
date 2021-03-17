@@ -28,7 +28,6 @@
 * [cucumber testing]()
 * [JfrUnit - A JUnit extension for asserting JDK Flight Recorder events]()
 * []()
-* []()
 
 ## Popular free testing tools.
 * No coding required:
