@@ -133,6 +133,7 @@
 * [Axon Framework]()
 * [eventuate framework]()
 * [actor concurrency model]()
+* [trazabilidad distribuida de las peticiones. distributed traceability of requests]()
 * []()
 
 
