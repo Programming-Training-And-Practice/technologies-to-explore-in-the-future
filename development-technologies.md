@@ -65,6 +65,9 @@
 * [coroutines.]()
 * [futures and promises model]()
 * [Kos](https://skullabs.github.io/kos/)
+* [CallBack. Vert.x]()
+* [Event Loop]()
+* [Worker Pool]()
 * []()
 
 ## Servers
@@ -100,10 +103,6 @@
 * [fault tolerance microservices java](https://www.google.com/search?q=fault+tolerance+microservices+java&newwindow=1&safe=active&hl=en-GB&sxsrf=ALeKk03VD2lskqqOgqlscvwHsUIbmT4zJw:1585329324060&source=lnms&sa=X&ved=0ahUKEwjRptn5k7voAhXr0eAKHbdPAtEQ_AUICSgA&biw=2560&bih=1314&dpr=1)
 * [Apache Camel]()
 * [best practices in POD definitions (e.g. resourcing, affinity)]()
-* [CallBack. Vertex]()
-* [Event Loop]()
-* [VertX]()
-* [Worker Pool]()
 * [tls protocol]()
 * [gRPC gateway]()
 * [Apache Avro]()
@@ -134,6 +133,8 @@
 * [eventuate framework]()
 * [actor concurrency model]()
 * [trazabilidad distribuida de las peticiones. distributed traceability of requests]()
+* [Avro vs Protobuf vs Thrift vs Parquet vs ORC vs ...]()
+* [Apache Hive]()
 * []()
 
 
