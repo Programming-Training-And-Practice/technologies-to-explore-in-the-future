@@ -136,6 +136,7 @@
 * [Avro vs Protobuf vs Thrift vs Parquet vs ORC vs ...]()
 * [Apache Hive]()
 * [MICROCKS](https://microcks.io/)
+* [programming architecture noesputh]()
 * []()
 
 
